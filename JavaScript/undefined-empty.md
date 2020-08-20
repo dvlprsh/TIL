@@ -13,8 +13,7 @@ JavaScript에 '없음'을 나타내는 두 가지 값이 있다.
     - 객체 내부의 존재하지 않는 프로퍼티에 접근하려고 할 때
     - return 문이 없거나 호출되지 않는 함수의 실행 결과
 
-## empty
-
+## empty (...ing)
 
 ```javascript
 var arr1 = [undefined, 1];

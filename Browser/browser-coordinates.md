@@ -23,7 +23,7 @@
 브라우저 화면이 아닌 모니터 화면을 기준으로 좌표를 제공한다.
 
 ## offsetX, offsetY
-이벤트 대상이 기준이 된다. 스크롤 화면을 포함해 전체 문서를 기준으로 한다. (?)
+이벤트 대상이 기준이 된다. 스크롤 화면을 포함해 전체 문서를 기준으로 한다.
 ---
 ### 출처
 - https://developer.mozilla.org/ko/docs/Web/API/Window/innerWidth

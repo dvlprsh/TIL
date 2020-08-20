@@ -1,6 +1,7 @@
 # JavaScript Array method 정리
 - [Array.prototype.concat](#Array.prototype.concat())
 - [Array.prototype.reduce](#Array.prototype.reduce())
+- [Array.prototype.some](#Array.prototype.some())
 ## Array.prototype.concat()
 **concat()** 메서드는 인자로 주어진 배열이나 값들을 기존 배열에 합쳐서 새 배열을 반환합니다.
 > 참고: 배열이나 값을 이어붙여도 원본은 변하지 않으며, 새로운 배열이나 원본 배열을 조작해도 서로 영향을 받지 않습니다.
@@ -54,6 +55,9 @@ alpha.concat(1, [2, 3]);
 #### 매개변수
 - callback
   * accumulator
+
+
+## Array.prototype.some()
 ---
 ### 출처
 concat
